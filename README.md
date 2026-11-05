@@ -45,7 +45,7 @@ Install the .NET 9 SDK, create a `References` folder and copy `TShockAPI.dll`, `
 - If you used an earlier version named *BossStats*, rename `tshock/BossStats.json` to `tshock/MPBossStats.json` to keep your settings, and remove the old `BossStats.dll` from `ServerPlugins`.
 
 ## Credits
-Author: **Riburitu**. Inspired by the tModLoader mod *MPBossStats*.
+Author: **Riburitu**. Inspired by the tModLoader mod [*MPBossStats*](https://steamcommunity.com/sharedfiles/filedetails/?id=2822937879).
 
 ---
 
@@ -92,4 +92,4 @@ Instale el SDK de .NET 9, cree una carpeta `References` y copie en ella `TShockA
 - Si usaba una versión anterior llamada *BossStats*, renombre `tshock/BossStats.json` a `tshock/MPBossStats.json` para conservar su configuración y quite el antiguo `BossStats.dll` de `ServerPlugins`.
 
 ## Créditos
-Autor: **Riburitu**. Inspirado en el mod de tModLoader *MPBossStats*.
+Autor: **Riburitu**. Inspirado en el mod de tModLoader [*MPBossStats*](https://steamcommunity.com/sharedfiles/filedetails/?id=2822937879).
