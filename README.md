@@ -2,13 +2,18 @@
 
 **English** · **[Español](#español)**
 
-# English
+## English
 
 TShock plugin that records **per-player statistics of boss fights** — damage dealt, damage taken, deaths, time alive and DPS — and shows them **to everyone** when the fight ends. It is a TShock take on the tModLoader mod *MPBossStats*, with reports in **English and Spanish** (each player picks their own language).
 
 - **Compatible with:** Terraria 1.4.5.8 · TShock 6.2.1 (.NET 9) · plugin API 2.1
 - **Status:** finished and tested by the author on Terraria 1.4.5.8 / TShock 6.2.1. The compiled `MPBossStats.dll` is published on the project's *Releases* page.
 - **License:** [GNU GPL v3](LICENSE) — you may use, modify and share it, but any modified version you distribute must also be open source under the same license, so improvements come back to everyone.
+
+## Demo video
+▶️ **[Watch the demo on YouTube](https://www.youtube.com/watch?v=3fjVnoh6CLs)** — *MPBossStats Exposition - TShock Plugin 1.4.5.8*
+
+[![MPBossStats demo video](https://img.youtube.com/vi/3fjVnoh6CLs/hqdefault.jpg)](https://www.youtube.com/watch?v=3fjVnoh6CLs)
 
 ## Installation
 1. Download `MPBossStats.dll` from *Releases*.
@@ -56,6 +61,11 @@ Plugin de TShock que registra las **estadísticas por jugador de las peleas cont
 - **Compatible con:** Terraria 1.4.5.8 · TShock 6.2.1 (.NET 9) · API de plugins 2.1
 - **Estado:** terminado y probado por el autor en Terraria 1.4.5.8 / TShock 6.2.1. El `MPBossStats.dll` ya compilado se publica en la página de *Releases* del proyecto.
 - **Licencia:** [GNU GPL v3](LICENSE) — puede usarlo, modificarlo y compartirlo, pero toda versión modificada que distribuya debe seguir siendo de código abierto con la misma licencia, de modo que las mejoras vuelvan a todos.
+
+## Vídeo de demostración
+▶️ **[Ver la demostración en YouTube](https://www.youtube.com/watch?v=3fjVnoh6CLs)** — *MPBossStats Exposition - TShock Plugin 1.4.5.8*
+
+[![Vídeo de demostración de MPBossStats](https://img.youtube.com/vi/3fjVnoh6CLs/hqdefault.jpg)](https://www.youtube.com/watch?v=3fjVnoh6CLs)
 
 ## Instalación
 1. Descargue `MPBossStats.dll` desde *Releases*.
